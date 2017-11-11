@@ -1,0 +1,400 @@
+Time spent waiting is 8.60691070557e-05
+Start time for iteration 1.0 is 1510397397.29
+Time for processing each tuple is 1.7796561718
+Completed Iteration is 1.0
+Time spent waiting is 1.74740815163
+Start time for iteration 2.0 is 1510397400.83
+Time for processing each tuple is 6.51454401016
+Completed Iteration is 2.0
+Time spent waiting is 0.0226101875305
+Start time for iteration 3.0 is 1510397407.38
+Time for processing each tuple is 6.53098201752
+Completed Iteration is 3.0
+Time spent waiting is 0.000133991241455
+Start time for iteration 4.0 is 1510397413.92
+Time for processing each tuple is 6.52005815506
+Completed Iteration is 4.0
+Time spent waiting is 0.0139970779419
+Start time for iteration 5.0 is 1510397420.46
+Time for processing each tuple is 6.50426793098
+Completed Iteration is 5.0
+Time spent waiting is 0.027773141861
+Start time for iteration 6.0 is 1510397427.0
+Time for processing each tuple is 6.52534508705
+Completed Iteration is 6.0
+Time spent waiting is 0.0105469226837
+Start time for iteration 7.0 is 1510397433.54
+Time for processing each tuple is 6.53612303734
+Completed Iteration is 7.0
+Time spent waiting is 0.00406408309937
+Start time for iteration 8.0 is 1510397440.09
+Time for processing each tuple is 6.53154993057
+Completed Iteration is 8.0
+Time spent waiting is 0.00811100006104
+Start time for iteration 9.0 is 1510397446.63
+Time for processing each tuple is 6.52737998962
+Completed Iteration is 9.0
+Time spent waiting is 0.00530600547791
+Start time for iteration 10.0 is 1510397453.17
+Time for processing each tuple is 6.51466608047
+Completed Iteration is 10.0
+Time spent waiting is 0.0234010219574
+Start time for iteration 11.0 is 1510397459.72
+Time for processing each tuple is 6.53272390366
+Completed Iteration is 11.0
+Time spent waiting is 0.00128698348999
+Start time for iteration 12.0 is 1510397466.26
+Time for processing each tuple is 6.52562904358
+Completed Iteration is 12.0
+Time spent waiting is 0.00907421112061
+Start time for iteration 13.0 is 1510397472.8
+Time for processing each tuple is 6.5341219902
+Completed Iteration is 13.0
+Time spent waiting is 0.000106811523438
+Start time for iteration 14.0 is 1510397479.35
+Time for processing each tuple is 6.5109128952
+Completed Iteration is 14.0
+Time spent waiting is 0.0225749015808
+Start time for iteration 15.0 is 1510397485.89
+Time for processing each tuple is 6.52666902542
+Completed Iteration is 15.0
+Time spent waiting is 0.0035719871521
+Start time for iteration 16.0 is 1510397492.42
+Time for processing each tuple is 6.5263941288
+Completed Iteration is 16.0
+Time spent waiting is 0.00973200798035
+Start time for iteration 17.0 is 1510397498.97
+Time for processing each tuple is 6.50803494453
+Completed Iteration is 17.0
+Time spent waiting is 0.0276520252228
+Start time for iteration 18.0 is 1510397505.51
+Time for processing each tuple is 6.52265119553
+Completed Iteration is 18.0
+Time spent waiting is 0.0160031318665
+Start time for iteration 19.0 is 1510397512.05
+Time for processing each tuple is 6.51514410973
+Completed Iteration is 19.0
+Time spent waiting is 0.0256741046906
+Start time for iteration 20.0 is 1510397518.6
+Time for processing each tuple is 6.53195214272
+Completed Iteration is 20.0
+Time spent waiting is 0.00614213943481
+Start time for iteration 21.0 is 1510397525.14
+Time for processing each tuple is 6.52288103104
+Completed Iteration is 21.0
+Time spent waiting is 0.0149590969086
+Start time for iteration 22.0 is 1510397531.69
+Time for processing each tuple is 6.52119493484
+Completed Iteration is 22.0
+Time spent waiting is 0.00987696647644
+Start time for iteration 23.0 is 1510397538.23
+Time for processing each tuple is 6.53199601173
+Completed Iteration is 23.0
+Time spent waiting is 0.00582098960876
+Start time for iteration 24.0 is 1510397544.77
+Time for processing each tuple is 6.53877711296
+Completed Iteration is 24.0
+Time spent waiting is 7.58171081543e-05
+Start time for iteration 25.0 is 1510397551.31
+Time for processing each tuple is 6.50299096107
+Completed Iteration is 25.0
+Time spent waiting is 0.0228791236877
+Start time for iteration 26.0 is 1510397557.84
+Time for processing each tuple is 6.53262805939
+Completed Iteration is 26.0
+Time spent waiting is 7.70092010498e-05
+Start time for iteration 27.0 is 1510397564.38
+Time for processing each tuple is 6.53136301041
+Completed Iteration is 27.0
+Time spent waiting is 8.20159912109e-05
+Start time for iteration 28.0 is 1510397570.93
+Time for processing each tuple is 6.53092908859
+Completed Iteration is 28.0
+Time spent waiting is 0.0120759010315
+Start time for iteration 29.0 is 1510397577.47
+Time for processing each tuple is 6.53588986397
+Completed Iteration is 29.0
+Time spent waiting is 8.9168548584e-05
+Start time for iteration 30.0 is 1510397584.02
+Time for processing each tuple is 6.53013515472
+Completed Iteration is 30.0
+Time spent waiting is 0.00813794136047
+Start time for iteration 31.0 is 1510397590.56
+Time for processing each tuple is 6.51380205154
+Completed Iteration is 31.0
+Time spent waiting is 0.0208969116211
+Start time for iteration 32.0 is 1510397597.11
+Time for processing each tuple is 6.53466796875
+Completed Iteration is 32.0
+Time spent waiting is 0.00647711753845
+Start time for iteration 33.0 is 1510397603.65
+Time for processing each tuple is 6.51542782784
+Completed Iteration is 33.0
+Time spent waiting is 0.0175979137421
+Start time for iteration 34.0 is 1510397610.19
+Time for processing each tuple is 6.53033304214
+Completed Iteration is 34.0
+Time spent waiting is 0.0063591003418
+Start time for iteration 35.0 is 1510397616.74
+Time for processing each tuple is 6.52269983292
+Completed Iteration is 35.0
+Time spent waiting is 0.0223741531372
+Start time for iteration 36.0 is 1510397623.29
+Time for processing each tuple is 6.53608798981
+Completed Iteration is 36.0
+Time spent waiting is 0.00207996368408
+Start time for iteration 37.0 is 1510397629.83
+Time for processing each tuple is 6.53364086151
+Completed Iteration is 37.0
+Time spent waiting is 0.00252604484558
+Start time for iteration 38.0 is 1510397636.37
+Time for processing each tuple is 6.5207631588
+Completed Iteration is 38.0
+Time spent waiting is 0.036502122879
+Start time for iteration 39.0 is 1510397642.93
+Time for processing each tuple is 6.52563905716
+Completed Iteration is 39.0
+Time spent waiting is 0.0404090881348
+Start time for iteration 40.0 is 1510397649.5
+Time for processing each tuple is 6.52416014671
+Completed Iteration is 40.0
+Time spent waiting is 0.0301918983459
+Start time for iteration 41.0 is 1510397656.06
+Time for processing each tuple is 6.52101898193
+Completed Iteration is 41.0
+Time spent waiting is 0.0275530815125
+Start time for iteration 42.0 is 1510397662.62
+Time for processing each tuple is 6.52935385704
+Completed Iteration is 42.0
+Time spent waiting is 0.0116019248962
+Start time for iteration 43.0 is 1510397669.16
+Time for processing each tuple is 6.51585793495
+Completed Iteration is 43.0
+Time spent waiting is 0.0316009521484
+Start time for iteration 44.0 is 1510397675.72
+Time for processing each tuple is 6.50712108612
+Completed Iteration is 44.0
+Time spent waiting is 0.0341970920563
+Start time for iteration 45.0 is 1510397682.27
+Time for processing each tuple is 6.53044295311
+Completed Iteration is 45.0
+Time spent waiting is 0.0135450363159
+Start time for iteration 46.0 is 1510397688.82
+Time for processing each tuple is 6.51450300217
+Completed Iteration is 46.0
+Time spent waiting is 0.0266849994659
+Start time for iteration 47.0 is 1510397695.36
+Time for processing each tuple is 6.50806689262
+Completed Iteration is 47.0
+Time spent waiting is 0.0268151760101
+Start time for iteration 48.0 is 1510397701.9
+Time for processing each tuple is 6.52016711235
+Completed Iteration is 48.0
+Time spent waiting is 0.0205700397491
+Start time for iteration 49.0 is 1510397708.45
+Time for processing each tuple is 6.53668618202
+Completed Iteration is 49.0
+Time spent waiting is 0.0139009952545
+Start time for iteration 50.0 is 1510397715.01
+Time for processing each tuple is 6.52154994011
+Completed Iteration is 50.0
+Time spent waiting is 0.000111818313599
+Start time for iteration 51.0 is 1510397721.54
+Time for processing each tuple is 6.53050613403
+Completed Iteration is 51.0
+Time spent waiting is 0.012433052063
+Start time for iteration 52.0 is 1510397728.08
+Time for processing each tuple is 6.50275802612
+Completed Iteration is 52.0
+Time spent waiting is 0.0365271568298
+Start time for iteration 53.0 is 1510397734.63
+Time for processing each tuple is 6.52395606041
+Completed Iteration is 53.0
+Time spent waiting is 0.0214450359344
+Start time for iteration 54.0 is 1510397741.18
+Time for processing each tuple is 6.49620103836
+Completed Iteration is 54.0
+Time spent waiting is 0.0373520851135
+Start time for iteration 55.0 is 1510397747.72
+Time for processing each tuple is 6.51682186127
+Completed Iteration is 55.0
+Time spent waiting is 0.0205709934235
+Start time for iteration 56.0 is 1510397754.26
+Time for processing each tuple is 6.52259397507
+Completed Iteration is 56.0
+Time spent waiting is 0.030797958374
+Start time for iteration 57.0 is 1510397760.82
+Time for processing each tuple is 6.52201700211
+Completed Iteration is 57.0
+Time spent waiting is 0.0234608650208
+Start time for iteration 58.0 is 1510397767.37
+Time for processing each tuple is 6.52503299713
+Completed Iteration is 58.0
+Time spent waiting is 0.0323929786682
+Start time for iteration 59.0 is 1510397773.94
+Time for processing each tuple is 6.51339387894
+Completed Iteration is 59.0
+Time spent waiting is 0.0325510501862
+Start time for iteration 60.0 is 1510397780.49
+Time for processing each tuple is 6.51035380363
+Completed Iteration is 60.0
+Time spent waiting is 0.0380070209503
+Start time for iteration 61.0 is 1510397787.05
+Time for processing each tuple is 6.53729891777
+Completed Iteration is 61.0
+Time spent waiting is 9.01222229004e-05
+Start time for iteration 62.0 is 1510397793.59
+Time for processing each tuple is 6.53439712524
+Completed Iteration is 62.0
+Time spent waiting is 0.00100111961365
+Start time for iteration 63.0 is 1510397800.14
+Time for processing each tuple is 6.53119111061
+Completed Iteration is 63.0
+Time spent waiting is 0.0163140296936
+Start time for iteration 64.0 is 1510397806.69
+Time for processing each tuple is 6.52905082703
+Completed Iteration is 64.0
+Time spent waiting is 0.0200791358948
+Start time for iteration 65.0 is 1510397813.25
+Time for processing each tuple is 6.52613401413
+Completed Iteration is 65.0
+Time spent waiting is 0.0100429058075
+Start time for iteration 66.0 is 1510397819.79
+Time for processing each tuple is 6.52166700363
+Completed Iteration is 66.0
+Time spent waiting is 0.0299890041351
+Start time for iteration 67.0 is 1510397826.35
+Time for processing each tuple is 6.52298903465
+Completed Iteration is 67.0
+Time spent waiting is 0.0152719020844
+Start time for iteration 68.0 is 1510397832.9
+Time for processing each tuple is 6.52127099037
+Completed Iteration is 68.0
+Time spent waiting is 0.0274391174316
+Start time for iteration 69.0 is 1510397839.46
+Time for processing each tuple is 6.52506089211
+Completed Iteration is 69.0
+Time spent waiting is 0.0195300579071
+Start time for iteration 70.0 is 1510397846.01
+Time for processing each tuple is 6.52903819084
+Completed Iteration is 70.0
+Time spent waiting is 0.0180289745331
+Start time for iteration 71.0 is 1510397852.57
+Time for processing each tuple is 6.51942801476
+Completed Iteration is 71.0
+Time spent waiting is 0.0326759815216
+Start time for iteration 72.0 is 1510397859.12
+Time for processing each tuple is 6.52383899689
+Completed Iteration is 72.0
+Time spent waiting is 0.0175869464874
+Start time for iteration 73.0 is 1510397865.67
+Time for processing each tuple is 6.52437400818
+Completed Iteration is 73.0
+Time spent waiting is 0.0161459445953
+Start time for iteration 74.0 is 1510397872.22
+Time for processing each tuple is 6.50603795052
+Completed Iteration is 74.0
+Time spent waiting is 0.039381980896
+Start time for iteration 75.0 is 1510397878.77
+Time for processing each tuple is 6.52635288239
+Completed Iteration is 75.0
+Time spent waiting is 0.0281729698181
+Start time for iteration 76.0 is 1510397885.33
+Time for processing each tuple is 6.51600003242
+Completed Iteration is 76.0
+Time spent waiting is 0.0204379558563
+Start time for iteration 77.0 is 1510397891.88
+Time for processing each tuple is 6.51951909065
+Completed Iteration is 77.0
+Time spent waiting is 0.0221190452576
+Start time for iteration 78.0 is 1510397898.43
+Time for processing each tuple is 6.52255511284
+Completed Iteration is 78.0
+Time spent waiting is 0.0255541801453
+Start time for iteration 79.0 is 1510397904.98
+Time for processing each tuple is 6.51248407364
+Completed Iteration is 79.0
+Time spent waiting is 0.0251560211182
+Start time for iteration 80.0 is 1510397911.53
+Time for processing each tuple is 6.53360390663
+Completed Iteration is 80.0
+Time spent waiting is 0.00115418434143
+Start time for iteration 81.0 is 1510397918.08
+Time for processing each tuple is 6.52786684036
+Completed Iteration is 81.0
+Time spent waiting is 0.0168380737305
+Start time for iteration 82.0 is 1510397924.63
+Time for processing each tuple is 6.53037500381
+Completed Iteration is 82.0
+Time spent waiting is 7.60555267334e-05
+Start time for iteration 83.0 is 1510397931.17
+Time for processing each tuple is 6.51612901688
+Completed Iteration is 83.0
+Time spent waiting is 0.0116748809814
+Start time for iteration 84.0 is 1510397937.7
+Time for processing each tuple is 6.51998496056
+Completed Iteration is 84.0
+Time spent waiting is 0.0146920681
+Start time for iteration 85.0 is 1510397944.25
+Time for processing each tuple is 6.51740098
+Completed Iteration is 85.0
+Time spent waiting is 0.0150079727173
+Start time for iteration 86.0 is 1510397950.78
+Time for processing each tuple is 6.53425908089
+Completed Iteration is 86.0
+Time spent waiting is 8.60691070557e-05
+Start time for iteration 87.0 is 1510397957.32
+Time for processing each tuple is 6.53775596619
+Completed Iteration is 87.0
+Time spent waiting is 0.00402212142944
+Start time for iteration 88.0 is 1510397963.87
+Time for processing each tuple is 6.51654314995
+Completed Iteration is 88.0
+Time spent waiting is 0.01393699646
+Start time for iteration 89.0 is 1510397970.4
+Time for processing each tuple is 6.53294897079
+Completed Iteration is 89.0
+Time spent waiting is 0.00324296951294
+Start time for iteration 90.0 is 1510397976.95
+Time for processing each tuple is 6.52622389793
+Completed Iteration is 90.0
+Time spent waiting is 0.00727415084839
+Start time for iteration 91.0 is 1510397983.49
+Time for processing each tuple is 6.5273630619
+Completed Iteration is 91.0
+Time spent waiting is 0.00999307632446
+Start time for iteration 92.0 is 1510397990.03
+Time for processing each tuple is 6.5335290432
+Completed Iteration is 92.0
+Time spent waiting is 0.0105030536652
+Start time for iteration 93.0 is 1510397996.58
+Time for processing each tuple is 6.51754403114
+Completed Iteration is 93.0
+Time spent waiting is 0.0186519622803
+Start time for iteration 94.0 is 1510398003.12
+Time for processing each tuple is 6.52840089798
+Completed Iteration is 94.0
+Time spent waiting is 0.00499391555786
+Start time for iteration 95.0 is 1510398009.66
+Time for processing each tuple is 6.52804803848
+Completed Iteration is 95.0
+Time spent waiting is 0.00196003913879
+Start time for iteration 96.0 is 1510398016.2
+Time for processing each tuple is 6.51649999619
+Completed Iteration is 96.0
+Time spent waiting is 0.0170910358429
+Start time for iteration 97.0 is 1510398022.74
+Time for processing each tuple is 6.52753186226
+Completed Iteration is 97.0
+Time spent waiting is 0.00270009040833
+Start time for iteration 98.0 is 1510398029.28
+Time for processing each tuple is 6.52886795998
+Completed Iteration is 98.0
+Time spent waiting is 0.0119881629944
+Start time for iteration 99.0 is 1510398035.82
+Time for processing each tuple is 6.51448488235
+Completed Iteration is 99.0
+Time spent waiting is 0.0186679363251
+Start time for iteration 100.0 is 1510398042.36
+Time for processing each tuple is 6.52354598045
+Completed Iteration is 100.0
